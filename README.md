@@ -1,6 +1,7 @@
 # Diana Page Frontend (Outdated)
 
-This is a public repository of the frontend code for an oldder React based version of the website currently (based on Nextjs) live at https://dianapage.co.za.
+## This is a public repository of the frontend code for an older React based version of the website currently live at www.dianapage.co.za.
+## The source code for the updated site built using NextJS can be viewed [here](https://github.com/MrZedain/dianapagesite-public/tree/main)
 
 Note: The repository does not include the full set of images and assets used on the live site.
 
