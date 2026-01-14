@@ -1,8 +1,8 @@
-# Diana Page Frontend (Public Version)
+# Diana Page Frontend (Outdated)
 
-This is a public version of the frontend code for the website currently live at https://dianapage.co.za.
+This is a public repository of the frontend code for an oldder React based version of the website currently (based on Nextjs) live at https://dianapage.co.za.
 
-Note: The repository does not include the full set of images and assets used on the live site due to copyright considerations.
+Note: The repository does not include the full set of images and assets used on the live site.
 
 ## About
 This is a React-based frontend project showcasing Diana Page’s portfolio/work/etc. It demonstrates responsive design, component-based architecture, and modern React practices.
